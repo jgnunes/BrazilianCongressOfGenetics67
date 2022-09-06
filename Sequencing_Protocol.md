@@ -1,1 +1,2 @@
+## Sequencing protocol
 Pacific Biosciences HiFi circular consensus and 10x Genomics Linked-Reads sequencing libraries were constructed according to the manufacturers’ instructions. Sequencing was performed by the Scientific Operations core at the Wellcome Sanger Institute on Pacific Biosciences SEQUEL II (HiFi) and Illumina NovaSeq (10x) instruments. Hi-C data were generated from gill tissue using the Arima v2.0 kit and sequenced on a NovaSeq instrument. All sequencing DNA was extracted from a single female specimen.
